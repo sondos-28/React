@@ -1,0 +1,13 @@
+
+body {
+  background: url('./components/Img/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
+.Icon:hover {
+  color: #0d6efd !important; 
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
