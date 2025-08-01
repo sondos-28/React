@@ -28,6 +28,8 @@ React Store is a modern e-commerce web application built with React. It provides
 - **Fake Store API**: RESTful API that provides product data for e-commerce websites
 - [Fake Store API](https://fakestoreapi.com/)
 
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -46,6 +48,7 @@ cd react-store
 ```bash
 npm install
 ```
+This will install all necessary packages including React, Bootstrap, Font Awesome, Axios, and React Router.
 
 3. Start the development server
 ```bash
